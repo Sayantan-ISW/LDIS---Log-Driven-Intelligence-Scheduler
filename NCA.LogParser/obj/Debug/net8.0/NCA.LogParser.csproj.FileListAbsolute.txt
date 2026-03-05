@@ -1,0 +1,14 @@
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\bin\Debug\net8.0\NCA.LogParser.exe
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\bin\Debug\net8.0\NCA.LogParser.deps.json
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\bin\Debug\net8.0\NCA.LogParser.runtimeconfig.json
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\bin\Debug\net8.0\NCA.LogParser.dll
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\bin\Debug\net8.0\NCA.LogParser.pdb
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\NCA.LogParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\NCA.LogParser.AssemblyInfoInputs.cache
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\NCA.LogParser.AssemblyInfo.cs
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\NCA.LogParser.csproj.CoreCompileInputs.cache
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\NCA.LogParser.dll
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\refint\NCA.LogParser.dll
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\NCA.LogParser.pdb
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\NCA.LogParser.genruntimeconfig.cache
+C:\Users\Sayantan.Bhattachary\OneDrive - insightsoftware\Documents\LDIS-Project\NCA.LogParser\obj\Debug\net8.0\ref\NCA.LogParser.dll
