@@ -1,0 +1,21 @@
+# Log files
+*.log
+*.txt
+*_Structured.json
+
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# NuGet packages
+packages/
+*.nupkg
