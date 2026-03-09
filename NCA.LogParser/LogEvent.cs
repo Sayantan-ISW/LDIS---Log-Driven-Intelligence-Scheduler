@@ -2,10 +2,20 @@ using System.Text.Json.Serialization;
 
 namespace NCA.LogParser;
 
+public enum LogSource
+{
+    NCA,
+    Sirus,
+    Unknown
+}
+
 public class LogEvent
 {
     [JsonPropertyName("event_id")]
     public string EventId { get; set; } = Guid.NewGuid().ToString();
+
+    [JsonPropertyName("log_source")]
+    public string LogSourceType { get; set; } = string.Empty;
 
     [JsonPropertyName("timestamp")]
     public long Timestamp { get; set; }
@@ -67,6 +77,9 @@ public class MetadataFields
     [JsonPropertyName("source_file")]
     public string? SourceFile { get; set; }
 
+    [JsonPropertyName("source_path")]
+    public string? SourcePath { get; set; }
+
     [JsonPropertyName("line_number")]
     public int LineNumber { get; set; }
 
@@ -75,4 +88,16 @@ public class MetadataFields
 
     [JsonPropertyName("nca_version")]
     public string NcaVersion { get; set; } = "R25.3";
+
+    [JsonPropertyName("bryteflow_version")]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+    public string? BryteflowVersion { get; set; }
+
+    [JsonPropertyName("bryteflow_build")]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+    public string? BryteflowBuild { get; set; }
+
+    [JsonPropertyName("ingest_instance")]
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+    public string? IngestInstance { get; set; }
 }

@@ -3,6 +3,10 @@
 *.txt
 *_Structured.json
 
+# Log directories
+Logs/
+Logs_structured/
+
 # Build artifacts
 bin/
 obj/
